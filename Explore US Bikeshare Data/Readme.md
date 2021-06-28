@@ -9,4 +9,4 @@ You should have Python 3, NumPy, and pandas installed using Anaconda
 A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia)
+Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs 
