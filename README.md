@@ -33,5 +33,5 @@ Description: This project involved gathering data from Twitter using the Twitter
 
 ---
 
-Feel free to explore each project folder for detailed information, including code files and datasets used. If you have any questions or feedback, please don't hesitate to [contact me](Moustafa.Elsawy.Ibrahim@gmail.com)
+Feel free to explore each project folder for detailed information, including code files and datasets used. If you have any questions or feedback, please don't hesitate to [contact me]([https://www.linkedin.com/in/mustafa-ibrahim94/])
 
