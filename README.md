@@ -31,6 +31,9 @@ Description: This project explored Netflix movies and guest stars in the popular
 
 Description: This project involved gathering data from Twitter using the Twitter API, followed by data wrangling and analysis. Python and various data manipulation libraries were used to clean and analyze the Twitter data.
 
+## 8. Data Driven Product Management: Conducting a Market Analysis
+
+Description: In this project, we'll query the local and global fitness landscape to find the international niche for your fitness products. we'll use pandas to investigate data on online interest in home gyms, gym workouts, home workouts, and fitness products, and make use of visualizations of this data to drive your product management.
 ---
 
 Feel free to explore each project folder for detailed information, including code files and datasets used. If you have any questions or feedback, please don't hesitate to [contact me]([https://www.linkedin.com/in/mustafa-ibrahim94/])
